@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "OmidMLdata/Omid_Barati.github.io",
+    "data-repo": "OmidMLdata/OmidMLdata.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",

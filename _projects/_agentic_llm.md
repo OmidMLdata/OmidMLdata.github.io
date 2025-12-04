@@ -2,8 +2,8 @@
 layout: page
 title: Desalination LLM - Large Language Model Agents Design Efficient Graphene Membranes
 description: An autonomous LLM-driven framework that iteratively designs and optimizes graphene nanopores.
-img: assets/img/publication_preview/wave-mechanics.gif # Replace with your own project image
-importance: 4
+img: /Users/omidbarati/website/OmidMLdata.github.io/assets/img/publication_preview/DesalinationLLM.jpg # Replace with your own project image
+importance: 1
 category: work
 ---
 

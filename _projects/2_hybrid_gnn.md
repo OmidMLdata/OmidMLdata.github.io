@@ -2,7 +2,7 @@
 layout: page
 title: Developed Hybrid GNN Models to Predict Rejection Rate in NF10k Molecular Dataset Using Pretraining
 description: Hybrid GNN models leveraging message-passing architectures for structural feature learning.
-img: assets/img/publication_preview/wave-mechanics.gif # Replace with your own project image
+img: assets/img/publication_preview/MMOLCRNF10K.jpg # Replace with your own project image
 importance: 2
 category: work
 ---

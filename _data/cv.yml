@@ -1,12 +1,12 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
+    - name: Omid Barati Farimani
       value: Albert Einstein
     - name: Date of Birth
-      value: 14th March 1879
+      value: 10th Feb 1987
     - name: Languages
-      value: English, German
+      value: English, Persian
 
 - title: Education
   type: time_table

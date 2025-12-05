@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -22,13 +22,6 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -409,7 +402,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-developed-hybrid-gnn-models-to-predict-rejection-rate-in-nf10k-molecular-dataset-using-pretraining",
+          section: "News",},{id: "projects-accelerating-water-desalination-screening-of-2d-membranes-via-machine-learning-surrogates",
+          title: 'Accelerating Water Desalination Screening of 2D Membranes via Machine Learning Surrogates',
+          description: "A surrogate machine learning model to rapidly predict desalination performance.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_desalination_screening/";
+            },},{id: "projects-developed-hybrid-gnn-models-to-predict-rejection-rate-in-nf10k-molecular-dataset-using-pretraining",
           title: 'Developed Hybrid GNN Models to Predict Rejection Rate in NF10k Molecular Dataset Using...',
           description: "Hybrid GNN models leveraging message-passing architectures for structural feature learning.",
           section: "Projects",handler: () => {
@@ -419,6 +417,11 @@ ninja.data = [{
           description: "An autonomous LLM-driven framework that iteratively designs and optimizes graphene nanopores.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_desalination_llm/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Agentic_llm_Polymer/";
             },},{
         id: 'social-cv',
         title: 'CV',

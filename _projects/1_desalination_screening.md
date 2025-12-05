@@ -2,7 +2,7 @@
 layout: page
 title: Accelerating Water Desalination Screening of 2D Membranes via Machine Learning Surrogates
 description: A surrogate machine learning model to rapidly predict desalination performance.
-img: assets/img/publication_preview/wave-mechanics.gif # Replace with your own project image
+img: assets/img/publication_preview/desalination-screening.jpg # Replace with your own project image
 importance: 1
 category: work
 ---

@@ -1,19 +1,19 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-11'
 papers:
   HQZWhRgAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: "High-Performance Water Separation through Heterostructured Graphene\u2013MoS\u2082 Nanopores"
     year: '2025'
   HQZWhRgAAAAJ:9yKSN-GCB0IC:
-    citations: 5
+    citations: 6
     title: 'NANOGPT: a query-driven large language model retrieval-augmented generation system for nanotechnology research'
     year: '2025'
   HQZWhRgAAAAJ:d1gkVwhDpl0C:
-    citations: 18
+    citations: 19
     title: "Fast Water Desalination with a Graphene\u2013MoS2 Nanoporous Heterostructure"
     year: '2024'
   HQZWhRgAAAAJ:u5HHmVD_uO8C:
-    citations: 77
+    citations: 80
     title: 'Machine learning in membrane design: from property prediction to AI-guided optimization'
     year: '2024'

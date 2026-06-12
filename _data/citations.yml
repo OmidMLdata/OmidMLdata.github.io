@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-12'
 papers:
   HQZWhRgAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -18,6 +18,6 @@ papers:
     title: 'Material Database Agent: A Multimodal Agentic Framework for Scientific Literature Mining'
     year: '2026'
   HQZWhRgAAAAJ:u5HHmVD_uO8C:
-    citations: 84
+    citations: 86
     title: 'Machine learning in membrane design: from property prediction to AI-guided optimization'
     year: '2024'

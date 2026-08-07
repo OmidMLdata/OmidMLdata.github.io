@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-07'
 papers:
   HQZWhRgAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -7,21 +7,21 @@ papers:
     year: '2025'
   HQZWhRgAAAAJ:9yKSN-GCB0IC:
     citations: 8
-    title: 'NANOGPT: a query-driven large language model retrieval-augmented generation system for nanotechnology research'
+    title: 'Nanogpt: A query-driven large language model retrieval-augmented generation system for nanotechnology research'
     year: '2025'
   HQZWhRgAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: Accelerating Water Desalination Screening of 2D Membranes via Machine Learning Surrogates
     year: '2026'
   HQZWhRgAAAAJ:d1gkVwhDpl0C:
-    citations: 25
-    title: "Fast Water Desalination with a Graphene\u2013MoS2 Nanoporous Heterostructure"
+    citations: 24
+    title: "Fast water desalination with a graphene\u2013MoS2 nanoporous heterostructure"
     year: '2024'
   HQZWhRgAAAAJ:qjMakFHDy7sC:
     citations: 1
     title: 'Material Database Agent: A Multimodal Agentic Framework for Scientific Literature Mining'
     year: '2026'
   HQZWhRgAAAAJ:u5HHmVD_uO8C:
-    citations: 93
+    citations: 95
     title: 'Machine learning in membrane design: from property prediction to AI-guided optimization'
     year: '2024'

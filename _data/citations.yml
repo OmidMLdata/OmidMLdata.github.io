@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-24'
 papers:
   HQZWhRgAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Accelerating Water Desalination Screening of 2D Membranes via Machine Learning Surrogates
     year: '2026'
   HQZWhRgAAAAJ:d1gkVwhDpl0C:
-    citations: 24
+    citations: 26
     title: "Fast water desalination with a graphene\u2013MoS2 nanoporous heterostructure"
     year: '2024'
   HQZWhRgAAAAJ:qjMakFHDy7sC:
@@ -22,6 +22,6 @@ papers:
     title: 'Material Database Agent: A Multimodal Agentic Framework for Scientific Literature Mining'
     year: '2026'
   HQZWhRgAAAAJ:u5HHmVD_uO8C:
-    citations: 95
+    citations: 104
     title: 'Machine learning in membrane design: from property prediction to AI-guided optimization'
     year: '2024'

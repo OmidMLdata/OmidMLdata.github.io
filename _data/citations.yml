@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-08-28'
 papers:
   HQZWhRgAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Accelerating Water Desalination Screening of 2D Membranes via Machine Learning Surrogates
     year: '2026'
   HQZWhRgAAAAJ:d1gkVwhDpl0C:
-    citations: 26
+    citations: 27
     title: "Fast water desalination with a graphene\u2013MoS2 nanoporous heterostructure"
     year: '2024'
   HQZWhRgAAAAJ:qjMakFHDy7sC:

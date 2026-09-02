@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-09-02'
 papers:
   HQZWhRgAAAAJ:2osOgNQ5qMEC:
     citations: 0
     title: "High-Performance Water Separation through Heterostructured Graphene\u2013MoS\u2082 Nanopores"
     year: '2025'
   HQZWhRgAAAAJ:9yKSN-GCB0IC:
-    citations: 8
+    citations: 9
     title: 'Nanogpt: A query-driven large language model retrieval-augmented generation system for nanotechnology research'
     year: '2025'
   HQZWhRgAAAAJ:UeHWp8X0CEIC:
@@ -22,6 +22,6 @@ papers:
     title: 'Material Database Agent: A Multimodal Agentic Framework for Scientific Literature Mining'
     year: '2026'
   HQZWhRgAAAAJ:u5HHmVD_uO8C:
-    citations: 104
+    citations: 105
     title: 'Machine learning in membrane design: from property prediction to AI-guided optimization'
     year: '2024'
